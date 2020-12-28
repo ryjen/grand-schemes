@@ -39,6 +39,7 @@ do not wish to share code because it is either really horrible, or a competitive
 
 # Apps
 
+* [fortunes](https://fortunes.micrantha.com): unix fortunes as a service and a slack integration (Go,Postgres)
 * [brewlist](https://github.com/ryjen/brewlist): a webapp to upload and share package manager package lists (ruby)
 * [webapp to make test planning and management easier](https://testmanship.com): with dreams of AI and security
 
