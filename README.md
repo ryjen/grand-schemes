@@ -18,13 +18,12 @@ do not wish to share code because it is either really horrible, or a competitive
 
 * [secrets-generator](https://github.com/ryjen/secrets-generator): use docker secrets outside of a swarm
 * [prep](https://github.com/ryjen/prep-cli) and [prep-plugins](https://github.com/ryjen/prep-plugins): a flexible package manager and build tool for C++ projects
-* [webapp to make test planning and management easier](https://testmanship.com): with dreams of AI and security
-* [query-interpreter](https://github.com/ryjen/query-interpreter): make SQL queries consistent across platforms via config/YAML
 * [libcoda](https://github.com/ryjen/libcoda): reusable c++ library kata (db, net, misc)
 * [cparse](https://github.com/ryjen/cparse): write a C sdk for a PaaS api
 
 # Databases
 
+* [query-interpreter](https://github.com/ryjen/query-interpreter): make SQL queries consistent across platforms via config/YAML
 * hybrid relational/document data architecture and SDKs (JSON,Postgres,SQLite,WebStorage)
 * mobile sync algorithms and architecture (MQTT,Hash,Protocols)
 
@@ -41,6 +40,7 @@ do not wish to share code because it is either really horrible, or a competitive
 # Apps
 
 * [brewlist](https://github.com/ryjen/brewlist): a webapp to upload and share package manager package lists (ruby)
+* [webapp to make test planning and management easier](https://testmanship.com): with dreams of AI and security
 
 # Audio
 
