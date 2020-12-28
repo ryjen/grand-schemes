@@ -1,8 +1,8 @@
 # Grand Schemes
 
-a list of my project ideas, most obsolete. Some are golden.
+A list of my project ideas, most obsolete. Some are golden.
 
-do not wish to share code because it is either really horrible, or a competitive advantage/ip.
+Do not wish to share because the code is either really horrible, or a competitive advantage/ip.
 
 # Idiomatic Hello Worlds
 
