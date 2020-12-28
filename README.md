@@ -42,7 +42,7 @@ Do not wish to share because the code is either really horrible or a competitive
 
 ## Apps
 
-* [outermesh](https://outermesh.micrantha.com): a ebook on learning programming via a hacker game
+* [outermesh](https://outermesh.micrantha.com): a ebook on learning programming via a hacker game (Dapp,Bitcoin,Go)
 * [blog](https://ryjen.github.io): web styling and authoring
 * [fortunes](https://fortunes.micrantha.com): unix fortunes as a service and a slack integration (Go,Postgres)
 * [brewlist](https://github.com/ryjen/brewlist): a webapp to upload and share package manager package lists (ruby)
