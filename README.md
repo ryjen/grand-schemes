@@ -6,7 +6,7 @@ do not wish to share code because it is either really horrible, or a competitive
 
 # Idiomatic Hello Worlds
 
-* [hangman](https://github.com/ryjen/hangman): hello react native via word game
+* [hangman](https://github.com/ryjen/hangman): hello react native via word game 
 * [codebreaker](https://github.com/ryjen/codebreaker): hello rust via "mastermind" game
 
 # DevOps
@@ -16,12 +16,12 @@ do not wish to share code because it is either really horrible, or a competitive
 
 # Utilities
 
-* [secrets-generator](https://github.com/ryjen/secrets-generator): use docker secrets outside of a swarm
+* [secrets-generator](https://github.com/ryjen/secrets-generator): use docker secrets outside of a swarm (Go)
 * [prep](https://github.com/ryjen/prep-cli) and [prep-plugins](https://github.com/ryjen/prep-plugins): a flexible package manager and build tool for C++ projects
 * [libcoda](https://github.com/ryjen/libcoda): reusable c++ library kata (db, net, misc)
 * [cparse](https://github.com/ryjen/cparse): write a C sdk for a PaaS api
 * [env](https://github.com/ryjen/env): contextual environment variables via files (Go)
-* [color-luminance](https://github.com/ryjen/color-luminance): lets have readable text with user images and themes
+* [color-luminance](https://github.com/ryjen/color-luminance): lets have readable text with user images and themes (JS)
 
 # Databases
 
