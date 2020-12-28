@@ -47,6 +47,7 @@ do not wish to share code because it is either really horrible, or a competitive
 
 * [dsp](https://github.com/ryjen/dsp): digital signal processing (golang)
 * protocols to standardize tablature
+* sheet music and theory flash cards training
 
 # Practice
 
