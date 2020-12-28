@@ -1,6 +1,6 @@
-# grand-schemes
+# Grand Schemes
 
-a list of my project ideas, most obsolete, but some with gold.
+a list of my project ideas, most obsolete. Some are golden.
 
 do not wish to share code because it is either really horrible, or a competitive advantage/ip.
 
