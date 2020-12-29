@@ -2,7 +2,7 @@
 
 A list of my project ideas, most obsolete. Some are golden.
 
-Do not wish to share because the code is either really horrible or a competitive advantage.
+Do not wish to share because the code is either horrible, insecure or a competitive advantage.
 
 
 ## Idiomatic Hello Worlds
