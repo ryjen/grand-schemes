@@ -69,3 +69,8 @@ MUDs are great kata for client/server network layer, data layer, and command/int
 * [mudharbour](https://github.com/ryjen/mudharbour) and [jmud](https://github.com/ryjen/jmud): Java/Hibernate/JEE mud kata
 * [muddled](https://github.com/ryjen/muddled): pathfinding mud kata (C,SQLite)
 * [dlm](https://github.com/ryjen/lost-cause): raytracing mud kata (C++)
+
+## Other
+
+* yubi key auth for git
+* generic service or api aggregator with cache
