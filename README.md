@@ -2,7 +2,7 @@
 
 A list of my project ideas, most obsolete. Some are golden.
 
-Do not wish to share because the code is either a competitive advantage or horribly old and insecure.
+Do not wish to share because the code is either a competitive advantage or horribly unmaintained.
 
 
 ## Idiomatic Hello Worlds
@@ -37,7 +37,7 @@ Do not wish to share because the code is either a competitive advantage or horri
 * [amosthealien](https://github.com/ryjen/amosthealien): help an alien return home (JS,Crafty.js)
 * [scrawble](https://github.com/ryjen/scrawble): scrabble algorithm and AR/ML to read a scrabble board and predict next best word
 * [yahtsee](https://github.com/ryjen/yahtsee): hello [DearImg](https://github.com/ocornut/imgui) and CLI/Curses (C++,rewrite golang)
-* [raytracing kata](https://github.com/ryjen/lost-cause): (C++)
+* [raytracing dungeon](https://github.com/ryjen/lost-cause): (C++)
 * [2d assets](https://github.com/ryjen/game-assets): game engine kata
 
 ## Apps
