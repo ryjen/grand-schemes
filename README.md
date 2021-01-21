@@ -35,9 +35,9 @@ Do not wish to share because the code is either a competitive advantage or horri
 * [scouter](https://github.com/ryjen/scouter): a mobile AI image recognition game of "eye spy"
 * [p0ng](https://github.com/ryjen/p0ng): a retro game of pong on iOS with multiplayer (ObjC)
 * [amosthealien](https://github.com/ryjen/amosthealien): help an alien return home (JS,Crafty.js)
-* [scrawble](https://github.com/ryjen/scrawble): scrabble algorithm and AR/ML to read a scrabble board and predict next best word
+* [scrawble](https://github.com/ryjen/scrawble): iOS scrabble algorithm and AR/ML to read a scrabble board and predict next best word
 * [yahtsee](https://github.com/ryjen/yahtsee): hello [DearImg](https://github.com/ocornut/imgui) and CLI/Curses (C++,rewrite golang)
-* [raytracing dungeon](https://github.com/ryjen/lost-cause): (C++)
+* [raytracing dungeon](https://github.com/ryjen/lost-cause): A C++ dungeon with raytracing
 * [2d assets](https://github.com/ryjen/game-assets): game engine kata
 
 ## Apps
