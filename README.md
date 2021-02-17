@@ -75,16 +75,20 @@ MUDs are simple games without graphical interfaces, but none-the-less include in
 
 ---
 
-* [jmud](https://github.com/ryjen/jmud): server and telnet client (java,hibernate)
+* [jmud](https://github.com/ryjen/jmud): server and telnet client (Java, Hibernate)
 * [automud](https://github.com/ryjen/automud): maze generation and automated game logic when user is not active, checking in with mobile apps (D/AI)
 * [arthea](https://github.com/ryjen/arthea): *earth in pig latin* with javascript parser for scripting (C#/.NET/MongoDB/NUnit)
-* [mudharbour](https://github.com/ryjen/mudharbour) for web and [jmud](https://github.com/ryjen/jmud) server/client/editor (Java/Hibernate/JEE)
-* [muddled](https://github.com/ryjen/muddled): very old project, somewhat vulnerable to sqlinjection (C,SQLite)
+* [mudharbour](https://github.com/ryjen/mudharbour) for web and [Jmud](https://github.com/ryjen/jmud) server/client/editor (Java/Hibernate/JEE)
+* [muddled](https://github.com/ryjen/muddled): very old project, somewhat vulnerable to sqlinjection (C/SQLite)
 * [dlm](https://github.com/ryjen/lost-cause): an attempt at adding raytracing to a mud (C++)
 
 ## Other
 
 * yubi key auth for git
 * generic service or api aggregator with cache
-* a project generator and build tool:  integrates with git, aws, versioning, migrations, and docker.  has modules for makefile build system, frontend (gulp/node), backend (golang)
+* a project generator and build tool:  integrates with git, aws, versioning, migrations, and docker.  has modules for:
+    - makefile build system
+    - frontend (gulp/node,modern html template)
+    - backend (golang with templates and security)
+    - mobile (react,flutter)
 
