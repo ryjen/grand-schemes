@@ -12,7 +12,7 @@ Do not wish to share because the code is either a competitive advantage or horri
 
 ## DevOps
 
-* [labratory](https://github.com/ryjen/micrantha-labratory) to setup new machines and deploy VPS proxied services with ansible
+* [labratory](https://github.com/ryjen/micrantha-labratory) to setup new machines and deploy VPS proxied services with ansible (CI)
 * [dotfiles](https://github.com/ryjen/dotfiles) common configurations for various CLI utilities
 
 ## Utilities
@@ -23,6 +23,7 @@ Do not wish to share because the code is either a competitive advantage or horri
 * [cparse](https://github.com/ryjen/cparse): write a C sdk for a PaaS api
 * [env](https://github.com/ryjen/env): contextual environment variables via files (Go)
 * [color-luminance](https://github.com/ryjen/color-luminance): lets have readable text with user images and themes (JS)
+* generic test data generator: generate iterative test data from templates
 
 ## Databases
 
@@ -43,7 +44,7 @@ Do not wish to share because the code is either a competitive advantage or horri
 ## Apps
 
 * [outermesh](https://outermesh.micrantha.com): a ebook on learning programming via a hacker game (Dapp,Bitcoin,Go)
-* [blog](https://ryjen.github.io): web styling and authoring
+* [blog](https://ryjen.github.io): main frontend project (gulp, js/node, static site generation, flexbox, performance)
 * [fortunes](https://fortunes.micrantha.com): unix fortunes as a service and a slack integration (Go,Postgres)
 * [brewlist](https://github.com/ryjen/brewlist): a webapp to upload and share package manager package lists (ruby)
 * [webapp to make test planning and management easier](https://testmanship.com): with dreams of AI and security
@@ -54,23 +55,35 @@ Do not wish to share because the code is either a competitive advantage or horri
 * protocols to standardize tablature
 * sheet music and theory flash cards training
 
-## Practice
+## Practice (kata)
 
 * [kata](https://github.com/ryjen/kata): (practice in the art)
 * [challenges](https://github.com/ryjen/challenges): pulling coding challenge emails into a repository
 * [writing a custom shell](https://github.com/ryjen/os/tree/master/shell): and other OS stuff like paging
 
-## MUDs as Kata
+## MUDs
 
-MUDs are great kata for client/server network layer, data layer, and command/interpreter design patterns.
+Whenever I want to learn or practice a new framework, language or design method.... I make a mud.
 
-* [automud](https://github.com/ryjen/automud): maze generation mud kata (D/AI)
-* [arthea](https://github.com/ryjen/arthea): C#/.NET mud kata
-* [mudharbour](https://github.com/ryjen/mudharbour) and [jmud](https://github.com/ryjen/jmud): Java/Hibernate/JEE mud kata
-* [muddled](https://github.com/ryjen/muddled): pathfinding mud kata (C,SQLite)
-* [dlm](https://github.com/ryjen/lost-cause): raytracing mud kata (C++)
+MUDs are simple games without graphical interfaces.  Other layers include:
+
+* client/server networking
+* database and data access
+* scripting, game logic and pathfinding
+* command/interpreter and other design patterns
+* world editors
+* protocol conformance like telnet,ssh,ansi color
+
+* [jmud](https://github.com/ryjen/jmud): server and telnet client (java,hibernate)
+* [automud](https://github.com/ryjen/automud): maze generation and automated game logic when user is not active, checking in with mobile apps (D/AI)
+* [arthea](https://github.com/ryjen/arthea): *earth in pig latin* with javascript parser for scripting (C#/.NET/MongoDB/NUnit)
+* [mudharbour](https://github.com/ryjen/mudharbour) for web and [jmud](https://github.com/ryjen/jmud) server/client/editor (Java/Hibernate/JEE)
+* [muddled](https://github.com/ryjen/muddled): very old project, somewhat vulnerable to sqlinjection (C,SQLite)
+* [dlm](https://github.com/ryjen/lost-cause): an attempt at adding raytracing to a mud (C++)
 
 ## Other
 
 * yubi key auth for git
 * generic service or api aggregator with cache
+* a project generator and build tool:  integrates with git, aws, versioning, migrations, and docker.  has modules for makefile build system, frontend (gulp/node), backend (golang)
+
