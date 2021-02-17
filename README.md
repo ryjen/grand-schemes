@@ -2,7 +2,7 @@
 
 A list of my project ideas, most obsolete. Some are designed properly and golden, others from experience or to learn.
 
-Do not wish to share because the code is either a competitive advantage, too horribly unmaintained.
+Do not wish to share because the code is either a competitive advantage, too horribly unmaintained as a solo project.
 
 ## Idiomatic Hello Worlds
 
