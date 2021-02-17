@@ -64,7 +64,7 @@ Do not wish to share because the code is either a competitive advantage, too hor
 
 Whenever I want to learn or practice a new framework, language or design method.... I make a mud.
 
-MUDs are simple games without graphical interfaces.  Other layers include:
+MUDs are simple games without graphical interfaces, but none-the-less include interesting things to develop:
 
 * client/server networking
 * database and data access
@@ -72,6 +72,8 @@ MUDs are simple games without graphical interfaces.  Other layers include:
 * command/interpreter and other design patterns
 * world editors
 * protocol conformance like telnet,ssh,ansi color
+
+---
 
 * [jmud](https://github.com/ryjen/jmud): server and telnet client (java,hibernate)
 * [automud](https://github.com/ryjen/automud): maze generation and automated game logic when user is not active, checking in with mobile apps (D/AI)
