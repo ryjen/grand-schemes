@@ -58,7 +58,7 @@ Do not wish to share because the code is either a competitive advantage, too hor
 
 * [kata](https://github.com/ryjen/kata): (practice in the art)
 * [challenges](https://github.com/ryjen/challenges): pulling coding challenge emails into a repository
-* [writing a custom shell](https://github.com/ryjen/os/tree/master/shell): and other OS stuff like paging
+* [writing a custom shell](https://github.com/ryjen/os/tree/master/shell): and other OS stuff like scheduling and paging
 
 ## MUDs
 
