@@ -74,9 +74,9 @@ MUDs are simple games without graphical interfaces, but none-the-less include in
 
 * client/server networking
 * database and data access
-* scripting, game logic and pathfinding
+* scripting, game logic and algorithms
 * command/interpreter and other design patterns
-* world editors
+* world editors, clients
 * protocol conformance like telnet,ssh,ansi color
 
 ---
