@@ -15,6 +15,7 @@ Do not wish to share because the code is either a competitive advantage (potenti
 * [dotfiles](https://github.com/ryjen/dotfiles) common configurations for various CLI utilities
 * man-in-the-middle scenario using vagrant, virtualbox, and security tools.
 
+## Databases
 
 * [query-interpreter](https://github.com/ryjen/query-interpreter): make SQL queries consistent across platforms via config/YAML
 * hybrid relational/document data architecture and SDKs (JSON,Postgres,SQLite,WebStorage)
@@ -53,8 +54,12 @@ Do not wish to share because the code is either a competitive advantage (potenti
 * [color-luminance](https://github.com/ryjen/color-luminance): lets have readable text with user images and themes (JS)
 * generic test data generator: generate iterative test data from templates
 * [secrets-generator](https://github.com/ryjen/secrets-generator): use docker secrets outside of a swarm (Go)
+* a project generator and build tool:  integrates with git, aws, versioning, migrations, and docker.  has modules for:
+    - makefile build system
+    - frontend (gulp/node,modern html template)
+    - backend (golang with templates and security)
+    - mobile (react,flutter)
 
-## Databases
 ## Practice (kata)
 
 * [kata](https://github.com/ryjen/kata): (practice in the art)
@@ -85,15 +90,6 @@ MUDs are simple games without graphical interfaces, but none-the-less include in
 
 ## Other
 
-* yubi key auth for git
-* generic service or api aggregator with cache
-* a project generator and build tool:  integrates with git, aws, versioning, migrations, and docker.  has modules for:
-    - makefile build system
-    - frontend (gulp/node,modern html template)
-    - backend (golang with templates and security)
-    - mobile (react,flutter)
-* a tool to inject docker secrets for applications that do not support them
-
 ## Ideas
 
 * docker-like solution for FreeBSD Jails or chroot
@@ -108,3 +104,5 @@ MUDs are simple games without graphical interfaces, but none-the-less include in
 * a browser tool to validate current html with markup service
 * jenkins plugin to create reviewable pull requests for its own configuration changes
 * mastadon modification to preview post
+* yubi key auth for git
+* generic service or api aggregator with cache
