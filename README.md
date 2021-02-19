@@ -91,4 +91,19 @@ MUDs are simple games without graphical interfaces, but none-the-less include in
     - frontend (gulp/node,modern html template)
     - backend (golang with templates and security)
     - mobile (react,flutter)
+* a tool to inject docker secrets for applications that do not support them
 
+## Ideas
+
+* docker-like solution for FreeBSD Jails or chroot
+* multiplayer puzzles
+* secure, copyright proof idea voting sight and technical design peer reviews
+* share an audio stream over bluetooth
+* hobby specific social network
+* a nano-machine building game
+* birthday planning app (events, meda, notifications, maps, gamefication)
+* generic tagging library.  tag anything in any app.  unlock meta data analytics
+* universal package manager using existing package managers as plugins.  segragates language, framework, user and system level packages.
+* a browser tool to validate current html with markup service
+* jenkins plugin to create reviewable pull requests for its own configuration changes
+* mastadon modification to preview post
