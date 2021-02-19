@@ -88,8 +88,6 @@ MUDs are simple games without graphical interfaces, but none-the-less include in
 * [muddled](https://github.com/ryjen/muddled): very old project, somewhat vulnerable to sqlinjection (C/SQLite)
 * [dlm](https://github.com/ryjen/lost-cause): an attempt at adding raytracing to a mud (C++)
 
-## Other
-
 ## Ideas
 
 * docker-like solution for FreeBSD Jails or chroot
