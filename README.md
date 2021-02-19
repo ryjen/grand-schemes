@@ -48,7 +48,7 @@ Do not wish to share because the code is either a competitive advantage (potenti
 
 * [prep](https://github.com/ryjen/prep-cli) and [prep-plugins](https://github.com/ryjen/prep-plugins): a flexible package manager and build tool for C++ projects
 * [libcoda](https://github.com/ryjen/libcoda): reusable c++ library kata (db, net, misc)
-* [cparse](https://github.com/ryjen/cparse): write a C sdk for a PaaS api
+* [cparse](https://github.com/ryjen/cparse): a C sdk for a now defunct PaaS api after facebook purchase (C)
 * [env](https://github.com/ryjen/env): contextual environment variables via files (Go)
 * [color-luminance](https://github.com/ryjen/color-luminance): lets have readable text with user images and themes (JS)
 * generic test data generator: generate iterative test data from templates
