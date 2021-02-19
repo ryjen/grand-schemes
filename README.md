@@ -28,8 +28,6 @@ Do not wish to share because the code is either a competitive advantage (potenti
 * [amosthealien](https://github.com/ryjen/amosthealien): help an alien return home (JS,Crafty.js)
 * [scrawble](https://github.com/ryjen/scrawble): iOS scrabble algorithm and AR/ML to read a scrabble board and predict next best word
 * [yahtsee](https://github.com/ryjen/yahtsee): hello [DearImg](https://github.com/ocornut/imgui) and CLI/Curses (C++,rewrite golang)
-* [raytracing dungeon](https://github.com/ryjen/lost-cause): A C++ dungeon with raytracing
-* [2d assets](https://github.com/ryjen/game-assets): game engine kata
 
 ## Apps
 
@@ -65,6 +63,8 @@ Do not wish to share because the code is either a competitive advantage (potenti
 * [kata](https://github.com/ryjen/kata): (practice in the art)
 * [challenges](https://github.com/ryjen/challenges): pulling coding challenge emails into a repository
 * [writing a custom shell](https://github.com/ryjen/os/tree/master/shell): and other OS stuff like scheduling and paging
+* [2d assets](https://github.com/ryjen/game-assets): game engine kata
+* raytracing books and tutorials: learning from the bottom, do not enjoy graphics that much
 
 ## MUDs
 
