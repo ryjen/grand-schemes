@@ -15,17 +15,6 @@ Do not wish to share because the code is either a competitive advantage (potenti
 * [dotfiles](https://github.com/ryjen/dotfiles) common configurations for various CLI utilities
 * man-in-the-middle scenario using vagrant, virtualbox, and security tools.
 
-## Utilities
-
-* [secrets-generator](https://github.com/ryjen/secrets-generator): use docker secrets outside of a swarm (Go)
-* [prep](https://github.com/ryjen/prep-cli) and [prep-plugins](https://github.com/ryjen/prep-plugins): a flexible package manager and build tool for C++ projects
-* [libcoda](https://github.com/ryjen/libcoda): reusable c++ library kata (db, net, misc)
-* [cparse](https://github.com/ryjen/cparse): write a C sdk for a PaaS api
-* [env](https://github.com/ryjen/env): contextual environment variables via files (Go)
-* [color-luminance](https://github.com/ryjen/color-luminance): lets have readable text with user images and themes (JS)
-* generic test data generator: generate iterative test data from templates
-
-## Databases
 
 * [query-interpreter](https://github.com/ryjen/query-interpreter): make SQL queries consistent across platforms via config/YAML
 * hybrid relational/document data architecture and SDKs (JSON,Postgres,SQLite,WebStorage)
@@ -55,6 +44,17 @@ Do not wish to share because the code is either a competitive advantage (potenti
 * protocols to standardize tablature
 * sheet music and theory flash cards training
 
+## Utilities
+
+* [prep](https://github.com/ryjen/prep-cli) and [prep-plugins](https://github.com/ryjen/prep-plugins): a flexible package manager and build tool for C++ projects
+* [libcoda](https://github.com/ryjen/libcoda): reusable c++ library kata (db, net, misc)
+* [cparse](https://github.com/ryjen/cparse): write a C sdk for a PaaS api
+* [env](https://github.com/ryjen/env): contextual environment variables via files (Go)
+* [color-luminance](https://github.com/ryjen/color-luminance): lets have readable text with user images and themes (JS)
+* generic test data generator: generate iterative test data from templates
+* [secrets-generator](https://github.com/ryjen/secrets-generator): use docker secrets outside of a swarm (Go)
+
+## Databases
 ## Practice (kata)
 
 * [kata](https://github.com/ryjen/kata): (practice in the art)
