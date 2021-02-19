@@ -13,6 +13,7 @@ Do not wish to share because the code is either a competitive advantage (potenti
 
 * [labratory](https://github.com/ryjen/micrantha-labratory) to setup new machines and deploy VPS proxied services with ansible (CI)
 * [dotfiles](https://github.com/ryjen/dotfiles) common configurations for various CLI utilities
+* man-in-the-middle scenario using vagrant, virtualbox, and security tools.
 
 ## Utilities
 
